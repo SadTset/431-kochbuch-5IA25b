@@ -3,14 +3,14 @@
 title: "Chicken Fried Rice"
 date: 2026-06-12
 draft: true
-description: "Dieses Chicken Fried Rice ist ein schnelles und einfaches Reisgericht mit praktischen Tiefkühlprodukten. Mit Poulet, Gemüse und würzigem Reis ist es trotzdem lecker und sättigend."
-image: "images/recipes/mein-rezept.jpg"
+description: "Dieses Chicken Fried Rice ist ein schnelles und einfaches Reisgericht mit Tiefkühlprodukten. Mit Poulet, Gemüse und Reis vom Vortag ist es trotzdem lecker und sättigend."
+image: "images/recipes/you_tellin_me_a_chicken_fried_this_rice_.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptgericht"]
 tags: ["asiatisch", "Fleisch"]
 contributors: ["Tseten Sharlhey"]
-difficulty: "Einfach" # Einfach | Mittel | Schwierig
+difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 4
@@ -18,8 +18,6 @@ prep_time: "10 Min."
 cook_time: "20 Min."
 
 # ── Zutaten ──────────────────────────────────────────────
-# Mengenangabe an den Anfang stellen (z.B. "500g …", "2 EL …"),
-# dann funktioniert der Portionen-Umrechner automatisch.
 ingredients:
   - "300g Reis vom Vortag"
   - "200g Tiefkühlgemüse"
